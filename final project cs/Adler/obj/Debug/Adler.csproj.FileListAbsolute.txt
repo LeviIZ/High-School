@@ -1,0 +1,22 @@
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\bin\Debug\Adler.exe
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\bin\Debug\Adler.pdb
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\Adler.exe
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\Adler.pdb
+C:\Users\Adler\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\Adler.exe
+C:\Users\Adler\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\Adler.pdb
+C:\Users\Adler\Documents\Visual Studio 2008\Projects\Adler\Adler\bin\Debug\Adler.exe
+C:\Users\Adler\Documents\Visual Studio 2008\Projects\Adler\Adler\bin\Debug\Adler.pdb
+C:\Users\Adler\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\ResolveAssemblyReference.cache
+D:\0.5T HDD USB 3.0\אמציה אדלר\comp\שפות תכנות ובניית אתרים\c sharp\Adler\Adler\bin\Debug\Adler.exe
+D:\0.5T HDD USB 3.0\אמציה אדלר\comp\שפות תכנות ובניית אתרים\c sharp\Adler\Adler\bin\Debug\Adler.pdb
+D:\0.5T HDD USB 3.0\אמציה אדלר\comp\שפות תכנות ובניית אתרים\c sharp\Adler\Adler\obj\Debug\Adler.csprojAssemblyReference.cache
+D:\0.5T HDD USB 3.0\אמציה אדלר\comp\שפות תכנות ובניית אתרים\c sharp\Adler\Adler\obj\Debug\Adler.csproj.CoreCompileInputs.cache
+D:\0.5T HDD USB 3.0\אמציה אדלר\comp\שפות תכנות ובניית אתרים\c sharp\Adler\Adler\obj\Debug\Adler.exe
+D:\0.5T HDD USB 3.0\אמציה אדלר\comp\שפות תכנות ובניית אתרים\c sharp\Adler\Adler\obj\Debug\Adler.pdb
+C:\Users\Temp1-A.A\Documents\Visual Studio 2017\c sharp\Adler\Adler\bin\Debug\Adler.exe
+C:\Users\Temp1-A.A\Documents\Visual Studio 2017\c sharp\Adler\Adler\bin\Debug\Adler.pdb
+C:\Users\Temp1-A.A\Documents\Visual Studio 2017\c sharp\Adler\Adler\obj\Debug\Adler.csprojAssemblyReference.cache
+C:\Users\Temp1-A.A\Documents\Visual Studio 2017\c sharp\Adler\Adler\obj\Debug\Adler.csproj.CoreCompileInputs.cache
+C:\Users\Temp1-A.A\Documents\Visual Studio 2017\c sharp\Adler\Adler\obj\Debug\Adler.exe
+C:\Users\Temp1-A.A\Documents\Visual Studio 2017\c sharp\Adler\Adler\obj\Debug\Adler.pdb

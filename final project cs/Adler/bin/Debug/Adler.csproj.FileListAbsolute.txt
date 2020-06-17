@@ -1,0 +1,5 @@
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\bin\Debug\Adler.exe
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\bin\Debug\Adler.pdb
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\Adler.exe
+D:\Users\user\Documents\Visual Studio 2008\Projects\Adler\Adler\obj\Debug\Adler.pdb
